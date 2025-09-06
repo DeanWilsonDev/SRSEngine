@@ -1,0 +1,15 @@
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/SRS-Engine.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/edit_cache.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/rebuild_cache.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/list_install_components.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/install.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/install/local.dir
+/Users/deanwilson/development/projects/srs-app/build/CMakeFiles/install/strip.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/test_UmbraLogging.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/edit_cache.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/rebuild_cache.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/list_install_components.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/install.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/install/local.dir
+/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/install/strip.dir

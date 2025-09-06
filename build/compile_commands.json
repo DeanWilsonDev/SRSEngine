@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/deanwilson/development/projects/srs-app/src -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/SRS-Engine.dir/src/main.cpp.o -c /Users/deanwilson/development/projects/srs-app/src/main.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/src/main.cpp",
+  "output": "CMakeFiles/SRS-Engine.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/deanwilson/development/projects/srs-app/src -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/SRS-Engine.dir/src/deck/deck.cpp.o -c /Users/deanwilson/development/projects/srs-app/src/deck/deck.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/src/deck/deck.cpp",
+  "output": "CMakeFiles/SRS-Engine.dir/src/deck/deck.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -Winvalid-pch -Xclang -emit-pch -Xclang -include -Xclang /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx -x c++-header -o CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.pch -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.cxx",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.cxx",
+  "output": "_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.pch"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -Winvalid-pch -Xclang -include-pch -Xclang /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx -o CMakeFiles/UmbraLogging.dir/src/log.cpp.o -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/log.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/log.cpp",
+  "output": "_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/src/log.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -Winvalid-pch -Xclang -include-pch -Xclang /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx.pch -Xclang -include -Xclang /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/cmake_pch.hxx -o CMakeFiles/UmbraLogging.dir/src/logger.cpp.o -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/logger.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/logger.cpp",
+  "output": "_deps/umbralogging-build/CMakeFiles/UmbraLogging.dir/src/logger.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/test_UmbraLogging.dir/test/test_main.cpp.o -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/test/test_main.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/test/test_main.cpp",
+  "output": "_deps/umbralogging-build/CMakeFiles/test_UmbraLogging.dir/test/test_main.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/test_UmbraLogging.dir/src/log.cpp.o -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/log.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/log.cpp",
+  "output": "_deps/umbralogging-build/CMakeFiles/test_UmbraLogging.dir/src/log.cpp.o"
+},
+{
+  "directory": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DUMBRA_BUILD_DLL -I/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/include  -stdlib=libc++ -stdlib=libc++ -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk -o CMakeFiles/test_UmbraLogging.dir/src/logger.cpp.o -c /Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/logger.cpp",
+  "file": "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-src/src/logger.cpp",
+  "output": "_deps/umbralogging-build/CMakeFiles/test_UmbraLogging.dir/src/logger.cpp.o"
+}
+]

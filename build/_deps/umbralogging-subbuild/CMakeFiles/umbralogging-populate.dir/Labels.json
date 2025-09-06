@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/CMakeFiles/umbralogging-populate"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/CMakeFiles/umbralogging-populate.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/CMakeFiles/umbralogging-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-build.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-download.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-install.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-test.rule"
+		},
+		{
+			"file" : "/Users/deanwilson/development/projects/srs-app/build/_deps/umbralogging-subbuild/umbralogging-populate-prefix/src/umbralogging-populate-stamp/umbralogging-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"umbralogging-populate"
+		],
+		"name" : "umbralogging-populate"
+	}
+}
