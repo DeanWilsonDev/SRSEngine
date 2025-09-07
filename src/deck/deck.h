@@ -35,5 +35,7 @@ class Deck {
   bool HasCardsDue() const;
   void ReviewCard(Card& card, ReviewQuality quality, time_t todayMidnight);
   void ShuffleDeck();
+  void Save(const std::string& filename);
+  void Load(const std::string& filename);
 };
 }  // namespace SRSEngine

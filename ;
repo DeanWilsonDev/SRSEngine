@@ -212,7 +212,7 @@ void Deck::Load(const std::string& filename) {
       }
     }
 
-    cards.push_back(c);
+    cards.push_back(c)
   }
 
 
